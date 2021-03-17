@@ -1,6 +1,5 @@
 from discord_webhook import DiscordWebhook
 from apscheduler.schedulers.blocking import BlockingScheduler
-import config as cfg
 import datetime
 import os
 
